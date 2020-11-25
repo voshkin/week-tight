@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\vasser\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\vasser\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_week-tignt.619022621.00" t="ExcludeRecursive" />
+    <e p="C:\Users\vasser\AppData\Roaming\JetBrains\Rider2020.3\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\vasser\RiderProjects\week-tignt" t="IncludeFlat">
+      <e p="src" t="Include">
+        <e p="week_tignt.Client" t="IncludeRecursive">
+          <e p="week_tignt.Client.fsproj" t="IncludeRecursive" />
+        </e>
+        <e p="week_tignt.Server" t="IncludeRecursive">
+          <e p="week_tignt.Server.fsproj" t="IncludeRecursive" />
+        </e>
+      </e>
+      <e p="week-tignt.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
